@@ -1,5 +1,11 @@
 # react-native-guidekit
 
+## 1.1.1
+
+### Patch Changes
+
+- faf191a: feat: add Guide Kit default hook, component
+
 ## 1.1.0
 
 ### Minor Changes
